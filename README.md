@@ -55,3 +55,13 @@ The following non-functional requirements were considered in the development of 
 
 # Conclusion
 The Quiz Application Project demonstrates a basic quiz application using HTML, CSS, and JavaScript. By following the objectives, key activities, and technologies outlined in this overview, developers can create a functional and interactive quiz application. This project serves as a foundation for more complex and feature-rich quiz applications, and can be extended or modified to accommodate various requirements and use cases.
+
+#Output Images:
+
+<img width="1440" alt="Screenshot 2025-01-16 at 8 44 30 PM" src="https://github.com/user-attachments/assets/b9a029ed-1ece-4bf5-a71d-b53ad2e2ed6f" />
+
+<img width="1440" alt="Screenshot 2025-01-16 at 8 44 45 PM" src="https://github.com/user-attachments/assets/5676a35a-f763-483c-9f09-daf76e7cd893" />
+
+<img width="1440" alt="Screenshot 2025-01-16 at 8 44 57 PM" src="https://github.com/user-attachments/assets/138b79f9-6917-4161-aad7-98c6fe0242f9" />
+
+
